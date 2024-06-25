@@ -1,0 +1,149 @@
+<div class="united-elevators-request-quote">
+    <form 
+    (submit)="onSubmit()" 
+    [formGroup]="requestForm"
+     class="container-6"
+     enctype="multipart/form-data">
+      <div class="container-14">
+        <div class="svg-1">
+          <img class="vector-2" src="../../assets/vectors/vector_55_x2.svg" />
+        </div>
+        <img class="svg" src="../../assets/vectors/svg_20_x2.svg" />
+      </div>
+      <div class="heading-2-creating-2">
+        Send us email
+      </div>
+      <div class="heading-2-creating-3">
+        Request for quotation (RFQ)
+      </div>
+      <div class="container-5">
+        <div class="container-10">
+          <input type="text"
+            class="heading-2-creating-4"
+            placeholder="Enter Name"
+            formControlName="Name"
+          />
+          <p *ngIf="!requestForm.get('Name').valid && requestForm.get('Name').touched" class="text-danger"> Name is Required</p>
+        </div>
+        <div class="container-12">
+          <input type="text"
+            class="heading-2-creating-4"
+            placeholder="Enter Email"
+            formControlName="Email"
+          />
+          <p *ngIf="!requestForm.get('Email').valid && requestForm.get('Email').touched" class="text-danger"> Email is Required</p>
+        </div>
+      </div>
+      <div class="container-1">
+        <select
+        class="heading-2-creating-5"
+        formControlName="Service"
+        >
+        <option [ngValue]="null" disabled selected>Choose Service</option>
+        <option *ngFor="let name of serviceNames" [value]="name">{{ name }}</option>
+        </select>
+      </div>
+      <div class="container-1">
+        <select
+        class="heading-2-creating-5"
+        formControlName="Product"
+        >
+        <option [ngValue]="null" disabled selected>Choose Product</option>
+        <option *ngFor="let name of productNames" [value]="name">{{ name }}</option>
+        </select>
+      </div>
+      <div class="container-1">
+        <select
+        class="heading-2-creating-5"
+        formControlName="Brand"
+        >
+        <option [ngValue]="null" disabled selected>Choose Brand</option>
+        <option *ngFor="let name of brandNames" [value]="name">{{ name }}</option>
+        </select>
+      </div>
+      <div class="container-1">
+        <select
+        class="heading-2-creating-5"
+        formControlName="Model"
+        >
+        <option [ngValue]="null" disabled selected>Choose Model</option>
+        <option *ngFor="let name of modelNames" [value]="name">{{ name }}</option>
+
+        </select>
+      </div>
+      <div class="container-4">
+        <textarea class="heading-2-creating-4" placeholder="Enter Message" formControlName="Message">
+        </textarea>
+      </div>
+      <div class="container-15">
+        <div class="heading-2-creating-7">
+          Attach the quotation request file
+        </div>
+        <div class="d-flex">
+          <div class="svgexport-1021">
+            <img class="group" src="../assets/vectors/group_48_x2.svg" />
+          </div>
+          <input type="file" 
+          (change)="onFileChange($event)" 
+          id="files" style="display:none;" formControlName="File"/>
+          <label for="files" class="heading-2-creating-8">Choose file</label>
+        </div>
+      </div>
+      <div class="btn">
+        <input class="send-message"
+        type="submit"
+        id="submitbtn"
+        value="Send Message"
+        />
+      </div>
+      <div class="main">
+        <div class="div-econ-inner">
+          <div class="div-elementor-element">
+            <div class="div-haru-decor-circle">
+            </div>
+            <div class="div-haru-decor-circle-1">
+            </div>
+            <div class="div-elementor-widget-container">
+              <span class="heading-2-enjoy-up-your-vacations">
+                We are working in the <br> Egyptian market in the <br> field of elevators.
+              </span>
+            </div>
+            <div class="div-elementor-element-1">
+              <span class="heading-2-tshirts-that-keep-you-moving">
+                we provides all elevators items
+              </span>
+            </div>
+            <div class="div-elementor-element-2">
+              <div class="button">
+                <span class="request-quote">
+                  Request Quote
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="div-elementor-element-3">
+            <div class="div-haru-decor-ellipse">
+            </div>
+          </div>
+        </div>
+        <div class="div-haru-decor-circle-2">
+        </div>
+        <div class="container">
+        </div>
+      </div>
+    </form>
+    <div class="svg-2">
+      <img class="vector-3" src="../../assets/vectors/vector_49_x2.svg" />
+    </div>
+    <div class="svg-3">
+      <img class="svg-4" src="../../assets/vectors/svg_1_x2.svg" />
+    </div>
+    <div class="container-13">
+      <div class="heading-2-creating">
+        Request Quote
+      </div>
+      <p class="heading-2-creating-1">
+        <span class="heading-2-creating-1-sub-0">Home / Request Qoute</span>
+      </p>
+    </div>
+  </div>

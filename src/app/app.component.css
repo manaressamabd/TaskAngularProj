@@ -1,0 +1,18 @@
+.navbar , .footer{background-color: white !important;}
+.nav-link { font-family: 'Urbanist'; color: black; font-weight: bold;}
+#contactbtn,#subcribebtn{ font-family: 'Urbanist'; background-color: #3A8483; color: white;}
+#Requestbtn{ font-family: 'Urbanist'; border: 1px solid #3A8483; color:#3A8483;}
+.footer{font-size: 10px;}
+.footer h6 {font-family: 'Urbanist'; color:black; font-weight: bold;}
+.footer p a {text-decoration: none; }
+.footer #email {background-color: lightgrey;}
+.active {
+    text-decoration: underline;
+    text-decoration-color: #3A8483;
+}
+.container-19 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }

@@ -1,0 +1,2220 @@
+.united-elevators-home{
+  background: #FFFFFF;
+  display: flex;
+  padding: 7px 0 29px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-46 {
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding-right: 14px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.united-elevators-home .image-5 {
+  background: url(../../assets/images/image_51.png);
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 640px;
+}
+.united-elevators-home .svg {
+  margin-bottom: 4.7px;
+  width: 24px;
+  height: 22.9px;
+}
+.united-elevators-home .svg-1 {
+  position: absolute;
+  left: 173.3px;
+  bottom: 55.7px;
+  display: flex;
+  width: 74px;
+  height: 44.7px;
+  box-sizing: border-box;
+}
+.united-elevators-home .vector-2 {
+  width: 74px;
+  height: 44.7px;
+}
+.united-elevators-home .svg-2 {
+  position: absolute;
+  left: 0px;
+  top: 400px;
+  width: 98px;
+  height: 191px;
+}
+.united-elevators-home .svg-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end;
+  padding: 15.4px 0 66px 0;
+  width: 794.6px;
+  box-sizing: border-box;
+}
+.united-elevators-home .vector-7 {
+  position: absolute;
+  left: -189.4px;
+  top: 0px;
+  width: 984px;
+  height: 206.4px;
+}
+.united-elevators-home .authorized-distributor-of-global-elevators {
+  margin: 5.6px 11px 0 0;
+  display: inline-block;
+  width: 732.2px;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: var(--token, #161616);
+}
+.heading-2-creating-sub4 {
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.333;
+  text-transform: capitalize;
+}
+.united-elevators-home .heading-2-creating {
+  position: absolute;
+  left: 140px;
+  top: 155px;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 42px;
+  color: #3A8483;
+}
+.united-elevators-home .all-its-work-is-subject-to-local-and-international-standards-assurance-and-quality-control-procedures-as-it-is-an-agent-for-major-international-brands-in-its-field {
+  position: relative;
+  margin: 5.6px 11px 37.5px 0;
+  display: inline-block;
+  width: 732.2px;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--token, #161616);
+}
+.united-elevators-home .btn {
+  border-radius: 12px;
+  border: 1.5px solid #3A8483;
+  background: #3A8483;
+  margin-right: 18px;
+  display: flex;
+  padding: 11.5px 16.1px 11.5px 22px;
+  width: 153px;
+  box-sizing: border-box;
+}
+.united-elevators-home .know-more {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.united-elevators-home .btn-1 {
+  border-radius: 12px;
+  border: 1.5px solid var(--token, #161616);
+  display: flex;
+  padding: 12.5px 0.7px 11.5px 20px;
+  width: 141px;
+  box-sizing: border-box;
+}
+.united-elevators-home .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.346;
+  color: var(--token, #161616);
+}
+.united-elevators-home .group-45 {
+  margin: 0 140px 106.4px 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-creating-1 {
+  margin: 0 0.2px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #3A8483;
+}
+.united-elevators-home .heading-2-creating-2 {
+  margin: 0 0.3px 49px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 40px;
+  text-transform: capitalize;
+  color: #292929;
+}
+.united-elevators-home .frame-7 {
+  border-radius: 18px 61px 18px 18px;
+  border: 2px solid var(--a-8483, #3A8483);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 25px 29px 25px;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-71 {
+  border-radius: 39px;
+  background: #3A8483;
+  position: relative;
+  margin-bottom: 23px;
+  width: 78px;
+  height: 78px;
+}
+.united-elevators-home .frame {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  display: flex;
+  width: 33.2px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group {
+  width: 33.2px;
+  height: 36px;
+}
+.united-elevators-home .frame-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .affordable-price {
+  margin-bottom: 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--token, #161616);
+}
+.united-elevators-home .lorem-ipsum-dolor-amet-consectetur {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.8;
+  text-transform: capitalize;
+  color: #9D9D9D;
+}
+.united-elevators-home .frame-8 {
+  border-radius: 18px;
+  border: 1px solid #E1E1E1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 26px 30px 26px;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-72 {
+  border-radius: 39px;
+  background: #EDF4F4;
+  position: relative;
+  margin-bottom: 23px;
+  width: 78px;
+  height: 78px;
+}
+.united-elevators-home .frame-1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  display: flex;
+  width: 31.2px;
+  height: 34.9px;
+  box-sizing: border-box;
+}
+.united-elevators-home .vector-11 {
+  width: 31.2px;
+  height: 34.9px;
+}
+.united-elevators-home .frame-51 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .high-quality {
+  margin-bottom: 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--token, #161616);
+}
+.united-elevators-home .lorem-ipsum-dolor-amet-consectetur-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.8;
+  text-transform: capitalize;
+  color: #9D9D9D;
+}
+.united-elevators-home .frame-9 {
+  border-radius: 18px;
+  border: 1px solid #E1E1E1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 26px 30px 26px;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-73 {
+  border-radius: 39px;
+  background: #EDF4F4;
+  position: relative;
+  margin-bottom: 23px;
+  width: 78px;
+  height: 78px;
+}
+.united-elevators-home .frame-2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  display: flex;
+  width: 35.9px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-1 {
+  width: 35.9px;
+  height: 36px;
+}
+.united-elevators-home .frame-52 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .support {
+  margin-bottom: 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--token, #161616);
+}
+.united-elevators-home .lorem-ipsum-dolor-amet-consectetur-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.8;
+  text-transform: capitalize;
+  color: #9D9D9D;
+}
+.united-elevators-home .group-44 {
+  border-radius: 18px;
+  border: 1px solid #E1E1E1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 27px 31px 27px;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-74 {
+  border-radius: 39px;
+  background: #EDF4F4;
+  position: relative;
+  margin-bottom: 23px;
+  width: 78px;
+  height: 78px;
+}
+.united-elevators-home .frame-3 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  display: flex;
+  width: 27px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.united-elevators-home .frame-53 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .unique-design {
+  margin-bottom: 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--token, #161616);
+}
+.united-elevators-home .lorem-ipsum-dolor-amet-consectetur-3 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.8;
+  text-transform: capitalize;
+  color: var(--d-9-d-9-d, #9D9D9D);
+}
+.united-elevators-home .frame-10 {
+  border-radius: 0 0 4px 4px;
+  background: var(--a-8483, #3A8483);
+  margin: 0 172px 11px 0;
+  display: flex;
+  padding: 4px 4.4px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .frame-11 {
+  border-radius: 0 0 4px 4px;
+  background: var(--a-8483, #3A8483);
+  margin: 0 167px 11px 0;
+  display: flex;
+  padding: 4px 4.4px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .frame-12 {
+  border-radius: 0 0 4px 4px;
+  background: var(--a-8483, #3A8483);
+  margin: 0 168px 11px 0;
+  display: flex;
+  padding: 4px 4.4px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .frame-13 {
+  border-radius: 0 0 4px 4px;
+  background: var(--a-8483, #3A8483);
+  margin: 0 167px 11px 0;
+  display: flex;
+  padding: 4px 4.3px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .group-2 {
+  margin: 0 140px 100px 140px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-creating-3 {
+  margin-bottom: 31.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 40px;
+  color: var(--token, #161616);
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit {
+  margin: 0 0 40.5px 7px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--d-9-d-9-d, #9D9D9D);
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-1 {
+  margin: 0 0 44px 7px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--d-9-d-9-d, #9D9D9D);
+}
+.united-elevators-home .btn-2 {
+  border-radius: 12px;
+  border: 1.5px solid #3A8483;
+  background: #3A8483;
+  display: flex;
+  align-self: flex-start;
+  padding: 10.5px 1.6px 13.5px 27px;
+  width: 176px;
+  box-sizing: border-box;
+}
+.united-elevators-home .discover-more {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.united-elevators-home .image-8 {
+  border-radius: 27px;
+  border: 13px solid var(--ffffff, #FFFFFF);
+  background: url(../../assets/images/image_81.jpeg);
+  position: absolute;
+  left: 110px;
+  top: 211px;
+  width: 344px;
+  height: 315px;
+}
+.united-elevators-home .heading-2-creating-4 {
+  margin: 0 9px 19px 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #3A8483;
+}
+.united-elevators-home .modern-hallway-airport-subway-station-1 {
+  border-radius: 34px;
+  border: 9px solid var(--ffffff, #FFFFFF);
+  background: url(../../assets/images/modern_hallway_airport_subway_station_12.jpeg);
+  position: absolute;
+  left: -64px;
+  top: 42px;
+  width: 314.1px;
+  height: 315px;
+}
+.united-elevators-home .subtract {
+  position: absolute;
+  top: 10px;
+  right: 260px;
+  width: 93px;
+  height: 81px;
+}
+.united-elevators-home .subtract-1 {
+  position: absolute;
+  left: 73px;
+  bottom: -11px;
+  width: 93px;
+  height: 81px;
+  transform: rotateX(162deg);
+  transform: rotateZ(-180deg);
+}
+.united-elevators-home .frame-4 {
+  margin-right: 13.1px;
+  display: flex;
+  width: 47.8px;
+  height: 47.9px;
+  box-sizing: border-box;
+}
+.united-elevators-home .vector-21 {
+  width: 47.8px;
+  height: 47.9px;
+}
+.united-elevators-home .our-success-vision {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.united-elevators-home .our-success-mission {
+  margin: 3.5px 0 17.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam {
+  margin-bottom: 28.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--token, #161616);
+}
+.united-elevators-home .frame-5 {
+  margin-right: 14.5px;
+  display: flex;
+  width: 45px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-3 {
+  width: 45px;
+  height: 45px;
+}
+.united-elevators-home .frame-19 {
+  margin: 0 139.6px 100.3px 140px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-creating-5 {
+  margin-right: 25px;
+  width: 1061px;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 42px;
+  color: var(--token, #161616);
+}
+.united-elevators-home .heading-2-creating-6 {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #3A8483;
+}
+.united-elevators-home .component-6 {
+  border-radius: 20px;
+  border: 1px solid #E9E9E9;
+  margin-right: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 19px;
+  box-sizing: border-box;
+}
+.united-elevators-home .component-7 {
+  border-radius: 20px;
+  border: 1px solid #E9E9E9;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 19px;
+  box-sizing: border-box;
+}
+.united-elevators-home .component-8 {
+  border-radius: 20px;
+  border: 1px solid #E9E9E9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 19px;
+  box-sizing: border-box;
+}
+.united-elevators-home .main {
+  background: #3A8483;
+  position: relative;
+  margin-bottom: 93.5px;
+  display: flex;
+  padding: 0 141px 0.3px 141px;
+  width: 1440px;
+  height: 338.3px;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-econ-inner {
+  position: absolute;
+  left: -144px;
+  top: -50.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1620px;
+  height: 421.9px;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-elementor-element {
+  position: relative;
+  margin-top: 16.9px;
+  display: flex;
+  padding: 71.8px 0 198.2px 200.5px;
+  width: 841.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-haru-decor-circle {
+  opacity: 0.2;
+  border-radius: 202.5px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.4), #FFFFFF);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 405px;
+  height: 405px;
+}
+.united-elevators-home .div-haru-decor-circle-1 {
+  opacity: 0.2;
+  border-radius: 62.1px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.4), #FFFFFF);
+  transform: rotate(45deg);
+  position: absolute;
+  top: 45.3px;
+  right: 0px;
+  width: 175.6px;
+  height: 175.6px;
+}
+.united-elevators-home .div-elementor-widget-container {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-enjoy-up-your-vacations {
+  overflow-wrap: break-word;
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.25;
+  color: #FFFFFF;
+  margin-left: 126px;
+}
+.united-elevators-home .div-elementor-element-1 {
+  position: absolute;
+  right: 322px;
+  bottom: 172.2px;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-tshirts-that-keep-you-moving {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #FFFFFF;
+}
+.united-elevators-home .div-elementor-element-2 {
+  position: absolute;
+  left: 335px;
+  bottom: 91.2px;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .button {
+  border-radius: 9px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 6px 16.7px;
+  box-sizing: border-box;
+}
+.united-elevators-home .request-quote {
+  overflow-wrap: break-word;
+  font-family: 'Plus Jakarta Sans';
+  font-weight: 700;
+  font-size: 11.3px;
+  line-height: 3.2;
+  color: #000000;
+}
+.united-elevators-home .div-elementor-element-3 {
+  margin-bottom: 219.4px;
+  display: flex;
+  width: 202.5px;
+  height: 202.5px;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-haru-decor-ellipse {
+  opacity: 0.5;
+  background: radial-gradient(0% 0% at 50% 50%, #FFFFFF 5.05%, rgba(0, 0, 0, 0) 5.05%);
+  width: 202.5px;
+  height: 202.5px;
+}
+.united-elevators-home .div-haru-decor-circle-2 {
+  opacity: 0.2;
+  border-radius: 183.6px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.4), #FFFFFF);
+  position: absolute;
+  right: -166.2px;
+  bottom: -145.4px;
+  width: 367.2px;
+  height: 367.2px;
+}
+.united-elevators-home .container-4 {
+  border-radius: 0 0 152px 0;
+  background: url('../../assets/images/image.jpeg') 50% / cover no-repeat;
+  width: 473px;
+  height: 338px;
+}
+.united-elevators-home .group-47 {
+  margin: 0 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .footer {
+  margin-bottom: 51.1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-elementor-element-4 {
+  margin: 0 123.1px 2.6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .list {
+  margin: 0 0 21.2px 11.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .item-helloteespace-io {
+  margin-bottom: 7.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-strong-020360383996 {
+  margin-bottom: 6.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.736;
+  color: #000000;
+}
+.united-elevators-home .item-3665-paseo-place-suite-0960 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .image-1 {
+  background: url('../../assets/images/image_1.png');
+  margin-bottom: 12.2px;
+  align-self: flex-start;
+  width: 148px;
+  height: 85px;
+}
+.united-elevators-home .list-item-link {
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .symbol {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  color: #3A8483;
+}
+.united-elevators-home .list-item-link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .symbol-1 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  color: #3A8483;
+}
+.united-elevators-home .list-item-link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .symbol-2 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  color: #3A8483;
+}
+.united-elevators-home .list-item-link-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .symbol-3 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1;
+  color: #3A8483;
+}
+.united-elevators-home .div-elementor-element-5 {
+  margin: 64.5px 234.7px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-elementor-element-6 {
+  margin-bottom: 13.3px;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-information {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.313;
+  color: #000000;
+}
+.united-elevators-home .list-1 {
+  margin-right: 4.6px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .item-link-about-us {
+  margin-bottom: 8.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-our-blog {
+  margin-bottom: 8.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-start-areturn {
+  margin: 0 0.6px 8.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-contact-us {
+  margin: 0 11.5px 8.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-shipping-faq {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .div-elementor-element-7 {
+  margin: 64.5px 171px 30.6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-elementor-element-8 {
+  margin-bottom: 13.3px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-useful-links {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.313;
+  color: #000000;
+}
+.united-elevators-home .list-2 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .item-link-my-account {
+  margin-bottom: 8.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-print-provider {
+  margin-bottom: 8.6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-become-apartner {
+  margin: 0 6.6px 8.6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .item-link-custom-products {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.543;
+  color: #7E7E7E;
+}
+.united-elevators-home .div-elementor-element-9 {
+  margin: 64.5px 0 4.9px 0;
+  display: flex;
+  flex-direction: column;
+  width: 237px;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-elementor-element-10 {
+  margin-bottom: 14.8px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-newsletter {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.313;
+  color: #000000;
+}
+.united-elevators-home .div-elementor-element-11 {
+  margin-bottom: 19px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-subscribe-to-our-newsletter {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.446;
+  color: #7E7E7E;
+}
+.united-elevators-home .form {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .input {
+  border-radius: 9px;
+  border: 0.8px solid #F5F5F5;
+  background: #F5F5F5;
+  margin-bottom: 15px;
+  padding: 13.1px 15px 13.4px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .your-email-address {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 12px;
+  color: #9B9B9B;
+}
+.united-elevators-home .input-1 {
+  border-radius: 9px;
+  background: #3A8483;
+  display: flex;
+  padding: 12.5px 0.1px 12.5px 0;
+  width: 237px;
+  box-sizing: border-box;
+}
+.united-elevators-home .subscribe {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.united-elevators-home .footer-1 {
+  border-top: 0.8px solid #EDEDED;
+  margin-bottom: 15px;
+  width: 1160px;
+  height: 1px;
+}
+.united-elevators-home .heading-22022-tee-space-all-rights-reserved {
+  margin-right: 12.2px;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #7E7E7E;
+}
+.united-elevators-home .group-43 {
+  margin: 0 137.5px 100px 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .section {
+  margin: 0 3.2px 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1159.3px;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-elementor-widget-wrap {
+  margin-bottom: 0.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2 {
+  margin-bottom: 9.4px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.united-elevators-home .our-products {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 13.5px;
+  line-height: 1.7;
+  color: #3F434E;
+}
+.united-elevators-home .our-products-1 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 0.9;
+  text-transform: capitalize;
+  color: #1B1E26;
+}
+.united-elevators-home .div-elementor-column {
+  margin-top: 30.6px;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .div-item {
+  border-radius: 45px;
+  background: var(--a-8483, #3A8483);
+  margin: 0 0.5px 30px 0;
+  display: flex;
+  padding: 62px 0.6px 62px 64px;
+  width: 364px;
+  box-sizing: border-box;
+}
+.united-elevators-home .escalator {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 0.638;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.united-elevators-home .img-1 {
+  display: flex;
+  width: 364.5px;
+  height: 258.8px;
+  box-sizing: border-box;
+}
+.united-elevators-home .link-highlighting-8-ways-to-optimize-inventory-management-using-odoos-flexibility-768-x-508-png {
+  border-radius: 45px;
+  position: relative;
+  width: 364.5px;
+  height: 258.8px;
+}
+.united-elevators-home .image-10 {
+  background: url('../../assets/images/image_10.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -1.8px;
+  bottom: 11.2px;
+  width: 363px;
+  height: 262px;
+  border-radius: 50px;
+}
+.united-elevators-home .div-item-1 {
+  border-radius: 45px;
+  background: var(--a-8483, #3A8483);
+  margin: 0 2.5px 30.4px 0;
+  display: flex;
+  padding: 53.5px 19.3px 47.5px 21px;
+  box-sizing: border-box;
+  font-family: "Urbanist";
+
+}
+.united-elevators-home .moving-walkers {
+  overflow-wrap: break-word;
+  font-family: "Urbanist";
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 1.278;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.united-elevators-home .div-item-2 {
+  border-radius: 45px;
+  background: var(--a-8483, #3A8483);
+  margin-left: 1px;
+  display: flex;
+  padding: 62px 1.3px 62px 70px;
+  width: 364px;
+  box-sizing: border-box;
+  font-family: 'Urbanist';
+}
+.united-elevators-home .elevators {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 0.638;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.united-elevators-home .img-2 {
+  margin: 0 0.5px 30.3px 0;
+  display: flex;
+  width: 364.5px;
+  height: 258.8px;
+  box-sizing: border-box;
+}
+.united-elevators-home .link-tips-for-optimizing-and-troubleshooting-odoo-pos-development-768-x-508-png {
+  border-radius: 45px;
+  position: relative;
+  width: 364.5px;
+  height: 258.8px;
+}
+.united-elevators-home .image-9 {
+  background: url('../../assets/images/image_9.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -1.8px;
+  bottom: 11.2px;
+  width: 349px;
+  height: 262px;
+  border-radius: 50px;
+}
+.united-elevators-home .img-3 {
+  background: url('../../assets/images/image_11.png') 50% / cover no-repeat;
+  position: relative;
+  margin-left: 2px;
+  display: flex;
+  width: 364.5px;
+  height: 258.8px;
+  box-sizing: border-box;
+}
+.united-elevators-home .link-how-to-use-salesforce-experience-cloud-to-create-acommunity-that-matches-your-brand-768-x-508-png {
+  border-radius: 45px;
+  background: url('../../assets/images/link_how_to_use_salesforce_experience_cloud_to_create_acommunity_that_matches_your_brand_768_x_508_png.png');
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.united-elevators-home .image-11 {
+  background: url('../../assets/images/image_11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -33.5px;
+  top: -112.4px;
+  width: 431px;
+  height: 431px;
+}
+.united-elevators-home .img-31 {
+  position: relative;
+  display: flex;
+  width: 364.5px;
+  height: 258.8px;
+  box-sizing: border-box;
+}
+.united-elevators-home .link-how-to-use-salesforce-experience-cloud-to-create-acommunity-that-matches-your-brand-768-x-508-png-1 {
+  border-radius: 45px;
+  position: relative;
+  width: 364.5px;
+  height: 258.8px;
+}
+.united-elevators-home .image-111 {
+  background: url('../../assets/images/image_11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -33.5px;
+  top: -112.4px;
+  width: 431px;
+  height: 431px;
+}
+.united-elevators-home .image-21 {
+  background: url('../../assets/images/image_21.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -1.8px;
+  bottom: 11.2px;
+  width: 363px;
+  height: 262px;
+  border-radius: 50px;
+}
+.united-elevators-home .group-39 {
+  margin: 0 140px 100px 140px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .rectangle-14 {
+  border-radius: 30px;
+  background: #D9D9D9;
+  margin-left: 17.5px;
+  width: 385px;
+  height: 577.5px;
+}
+.united-elevators-home .vector-2 {
+  border-radius: 169.3px;
+  transform: rotate(364.426deg);
+  margin: -20.7px 330.4px 521.8px -10px;
+  width: 166.9px;
+  height: 50.2px;
+}
+.united-elevators-home .vector-99{
+  border-radius: 169.3px;
+  transform: rotate(215.426deg);
+  margin: -20.7px 330.4px 521.8px -10px;
+  width: 255.9px;
+  height: 100.2px;
+}
+.united-elevators-home .what-our-client-says {
+  margin-bottom: 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 1.37;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .our-testimonial {
+  margin-bottom: 87.8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.14;
+  color: #000000;
+}
+.united-elevators-home .unsplash-o-3-ymv-t-7-wf-9-u {
+  border-radius: 30px;
+  background: url('../../assets/images/unsplash_o_3_ymv_t_7_wf_9_u.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  right: 17.5px;
+  bottom: 22.5px;
+  height: 577.5px;
+}
+.united-elevators-home .max-skshena {
+  margin-bottom: 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.34;
+  color: #000000;
+}
+.united-elevators-home .ceo-of-xyz-compny {
+  margin-bottom: 24.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.34;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.34;
+  color: rgba(0, 0, 0, 0.75);
+}
+.united-elevators-home .group-30 {
+  margin: 0 137.9px 100px 140px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1162.1px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-35 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-5 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 1.14;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .years-experience {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 1.1px;
+  line-height: 1.34;
+  color: rgba(0, 0, 0, 0.5);
+}
+.united-elevators-home .group-36 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-6 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 1.14;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .distention-collaboration {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 1.1px;
+  line-height: 1.34;
+  color: rgba(0, 0, 0, 0.5);
+}
+.united-elevators-home .group-37 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-7 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 1.14;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .satisfied-customer {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 1.1px;
+  line-height: 1.34;
+  color: rgba(0, 0, 0, 0.5);
+}
+.united-elevators-home .group-38 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-8 {
+  margin-bottom: 17px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 1.14;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .unique-projects {
+  margin-right: 10.5px;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 1.1px;
+  line-height: 1.34;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.5);
+}
+.united-elevators-home .group-40 {
+  margin: 0 26.9px 47px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .heading-2-creating-7 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 700;
+  font-size: 42px;
+  color: var(--token, #161616);
+}
+.united-elevators-home .heading-2-creating-8 {
+  margin: 0 0 14px 0.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #3A8483;
+}
+.united-elevators-home .group-1171275711 {
+  display: flex;
+  flex-direction: row;
+  width: 1123px;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-22 {
+  margin: 7px 87px 6px 0;
+  display: flex;
+  width: 174px;
+  height: 90px;
+  box-sizing: border-box;
+}
+.united-elevators-home .image-12 {
+  mix-blend-mode: luminosity;
+  background: url('../../assets/images/image_12.png') 50% / cover no-repeat;
+  width: 174px;
+  height: 90px;
+}
+.united-elevators-home .frame-24 {
+  margin: 2px 18px 19px 0;
+  display: flex;
+  width: 210px;
+  height: 82px;
+  box-sizing: border-box;
+}
+.united-elevators-home .image-14 {
+  mix-blend-mode: luminosity;
+  background: url('../../assets/images/image_14.png') 50% / cover no-repeat;
+  width: 210px;
+  height: 82px;
+}
+.united-elevators-home .frame-23 {
+  margin-right: 68px;
+  display: flex;
+  width: 115px;
+  height: 103px;
+  box-sizing: border-box;
+}
+.united-elevators-home .image-13 {
+  mix-blend-mode: luminosity;
+  background: url('../../assets/images/image_13.png') 50% / cover no-repeat;
+  width: 115px;
+  height: 103px;
+}
+.united-elevators-home .frame-25 {
+  margin: 3px 15px 19px 0;
+  display: flex;
+  width: 216px;
+  height: 81px;
+  box-sizing: border-box;
+}
+.united-elevators-home .image-15 {
+  mix-blend-mode: luminosity;
+  background: url('../../assets/images/image_15.png');
+  width: 216px;
+  height: 81px;
+}
+.united-elevators-home .frame-26 {
+  margin: 5px 0 22px 0;
+  display: flex;
+  width: 220px;
+  height: 76px;
+  box-sizing: border-box;
+}
+.united-elevators-home .image-16 {
+  mix-blend-mode: luminosity;
+  background: url('../../assets/images/image_16.png') 50% / cover no-repeat;
+  width: 220px;
+  height: 76px;
+}
+.united-elevators-home .svg-4 {
+  position: absolute;
+  top: -19.3px;
+  right: -80.4px;
+  display: flex;
+  width: 159.3px;
+  height: 166.6px;
+  box-sizing: border-box;
+}
+.united-elevators-home .vector-24 {
+  width: 159.3px;
+  height: 166.6px;
+}
+.united-elevators-home .nav-bar {
+  margin: 0 135px 6px 141px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1164px;
+  box-sizing: border-box;
+}
+.united-elevators-home .discover-more-1 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 24px;
+  text-decoration-line: underline;
+  line-height: 1.563;
+  text-transform: capitalize;
+  color: #3A8483;
+}
+.united-elevators-home .see-all {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 24px;
+  text-decoration-line: underline;
+  line-height: 1.563;
+  text-transform: capitalize;
+  color: #3A8483;
+}
+.united-elevators-home .container {
+  margin: 20px 0 17px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-1171275720 {
+  margin: 0 0 117px 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  width: 1123px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-1171275721 {
+  position: relative;
+  margin: 0 63px 40px 0;
+  display: flex;
+  padding: 198px 0 36px 0;
+  width: 548px;
+  height: 549px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-1 {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-2 {
+  position: relative;
+  margin-right: 215.9px;
+  display: flex;
+  flex-direction: row;
+  width: 314px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-3 {
+  margin: 15px 18px 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-4 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  right: 154px;
+  transform: rotateY(180deg);
+}
+.united-elevators-home .container-5 {
+  margin-bottom: 69px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1160.4px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-6 {
+  margin: 0px 33.5px 0.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 364.5px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-7 {
+  margin: 113.3px 45.8px 534.8px 0;
+  width: 65.3px;
+  height: 65.3px;
+}
+.united-elevators-home .container-8 {
+  margin: 0 1.5px 6.5px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-9 {
+  position: relative;
+  margin-right: 9.8px;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-10 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-11 {
+  margin-top: 41px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-12 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-13 {
+  box-shadow: 3px 0px 122.3px -39px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  border-left: 8px solid #3A8483;
+  background: #FFFFFF;
+  position: absolute;
+  left: 344.3px;
+  bottom: 135px;
+  display: flex;
+  flex-direction: column;
+  padding: 83.3px 70.3px 110px 111.1px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-14 {
+  background: linear-gradient(270deg, rgba(255, 255, 255, 0.2) 10.6%, rgba(255, 255, 255, 0.7) 99.1%);
+  position: relative;
+  padding: 116.4px 0 88px 0;
+  width: 1426px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-15 {
+  margin-right: 0.4px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 907.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-17 {
+  margin: 0 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 145.8px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-18 {
+  margin-bottom: 158.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 767.2px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-19 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-20 {
+  margin: 0 0.1px 12px 0.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-21 {
+  margin: 0 33px 0.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 365px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-22 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-23 {
+  margin: 113.3px 0 534.8px 0;
+  width: 65.3px;
+  height: 65.3px;
+}
+.united-elevators-home .container-24 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.united-elevators-home .rectangle-21 {
+  border-radius: 15px;
+  background: url('../../assets/images/rectangle_21.png') 50% / cover no-repeat;
+  margin-bottom: 17px;
+  width: 372px;
+  height: 213px;
+}
+.united-elevators-home .frame-16 {
+  margin: 0 35.1px 0 15px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-14 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-18 {
+  border-radius: 2px 13px 2px 2px;
+  background: var(--a-8483, #3A8483);
+  margin-bottom: 13px;
+  display: flex;
+  align-self: flex-start;
+  padding: 4px 5.2px 4px 5px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-9 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .modern-elevators-in-office-lobby {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.united-elevators-home .frame-15 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #575757;
+}
+.united-elevators-home .read-more {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .rectangle-211 {
+  border-radius: 15px;
+  background: url('../../assets/images/rectangle_211.jpeg') 50% / cover no-repeat;
+  margin-bottom: 17px;
+  width: 372px;
+  height: 213px;
+}
+.united-elevators-home .frame-161 {
+  margin: 0 32.3px 0 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-141 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-181 {
+  border-radius: 2px 13px 2px 2px;
+  background: var(--a-8483, #3A8483);
+  margin-bottom: 13px;
+  display: flex;
+  align-self: flex-start;
+  padding: 4px 5.6px 4px 5px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .modern-elevators-in-office-lobby-1 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.united-elevators-home .frame-151 {
+  margin-right: 2.8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-1 {
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #575757;
+}
+.united-elevators-home .read-more-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .rectangle-212 {
+  border-radius: 15px;
+  background: url('../../assets/images/rectangle_216.png') 50% / cover no-repeat;
+  margin-bottom: 17px;
+  width: 372px;
+  height: 213px;
+}
+.united-elevators-home .frame-162 {
+  margin: 0 35.1px 0 15px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-142 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-182 {
+  border-radius: 2px 13px 2px 2px;
+  background: var(--a-8483, #3A8483);
+  margin-bottom: 13px;
+  display: flex;
+  align-self: flex-start;
+  padding: 4px 5.6px 4px 5px;
+  box-sizing: border-box;
+}
+.united-elevators-home .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--ffffff, #FFFFFF);
+}
+.united-elevators-home .modern-elevators-in-office-lobby-2 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.united-elevators-home .frame-152 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-2 {
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #575757;
+}
+.united-elevators-home .read-more-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: var(--a-8483, #3A8483);
+}
+.united-elevators-home .link {
+  border-radius: 12px;
+  border: 1.5px solid #3A8483;
+  margin-right: 13px;
+  display: flex;
+  padding: 14px 8.4px 14px 7.5px;
+  box-sizing: border-box;
+}
+.united-elevators-home .request-rfq {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 14px;
+  color: #3A8483;
+}
+.united-elevators-home .link-1 {
+  border-radius: 12px;
+  border: 1.5px solid #3A8483;
+  background: #3A8483;
+  margin-right: 12px;
+  display: flex;
+  padding: 14px 0.3px 14px 0;
+  width: 130px;
+  box-sizing: border-box;
+}
+.united-elevators-home .contact-us-1 {
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.united-elevators-home .home {
+  margin: 0 2px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.united-elevators-home .about-us {
+  margin: 15px 19.1px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.united-elevators-home .our-products-2 {
+  margin: 15px 19.8px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.united-elevators-home .our-services {
+  margin: 15px 19.1px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.united-elevators-home .image-11 {
+  background: url('../../assets/images/image_1.png');
+  width: 148px;
+  height: 85px;
+}
+.united-elevators-home .rectangle-2 {
+  border-radius: 1px;
+  background: #3A8483;
+  width: 44px;
+  height: 3px;
+}
+.united-elevators-home .blogs {
+  margin: 15px 19.1px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Urbanist';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.united-elevators-home .language {
+  display: flex;
+  width: 61px;
+  box-sizing: border-box;
+}
+.united-elevators-home .link-2 {
+  border-radius: 12px;
+  background: #F4F3F3;
+  display: flex;
+  flex-direction: row;
+  padding: 15.2px 10.5px;
+  width: 61px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.united-elevators-home .frame-6 {
+  margin-right: 5px;
+  display: flex;
+  width: 27px;
+  height: 17.7px;
+  box-sizing: border-box;
+}
+.united-elevators-home .group-4 {
+  width: 27px;
+  height: 17.7px;
+}
+.united-elevators-home .vector-29 {
+  margin: 6.8px 0;
+  width: 8px;
+  height: 4px;
+}
